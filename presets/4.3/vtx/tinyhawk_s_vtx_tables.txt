@@ -4,8 +4,8 @@
 #$ CATEGORY: VTX
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: vtx, tinyhawk, emax
-#$ AUTHOR: Roberto Besser / MrMagoo
-#$ DESCRIPTION: VTX table for the Emax TinyHawk S
+#$ AUTHOR: Roberto Mota Besser / MrMagoo
+#$ DESCRIPTION: VTX tables for the Emax TinyHawk S
 #$ FORCE_OPTIONS_REVIEW: TRUE
 
 #$ INCLUDE_DISCLAIMER: misc/disclaimer/en/vtxtable.txt
