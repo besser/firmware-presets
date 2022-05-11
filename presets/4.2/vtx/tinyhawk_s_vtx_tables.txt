@@ -10,7 +10,6 @@
 #$ INCLUDE_DISCLAIMER: misc/disclaimer/en/vtxtable.txt
 #$ INCLUDE: presets/4.2/vtx/defaults_vtx_tables.txt
 
-#$ OPTION_GROUP BEGIN: VTX Tables
 #$ OPTION BEGIN (CHECKED): Factory Locked
 vtxtable bands 5
 vtxtable channels 8
@@ -49,4 +48,3 @@ vtxtable powerlevels 1
 vtxtable powervalues 0
 vtxtable powerlabels 25
 #$ OPTION END
-#$ OPTION_GROUP END
