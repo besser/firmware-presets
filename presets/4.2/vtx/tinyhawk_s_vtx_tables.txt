@@ -1,5 +1,6 @@
 #$ TITLE: Emax TinyHawk S VTX tables
 #$ FIRMWARE_VERSION: 4.2
+#$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: VTX
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: vtx, tinyhawk, emax

@@ -558,10 +558,11 @@
     },
     {
       "fullPath": "presets/4.2/vtx/tinyhawk_s_vtx_tables.txt",
-      "hash": "10effe29f6322bb32e82ce8903c5e8e4d517acd4ad65a4a876d2c1eb6d90a112",
+      "hash": "1f9da07d92626a7e122342d089d415f29a7c3721e742e6ec90113fac97fabf4b",
       "title": "Emax TinyHawk S VTX tables",
       "firmware_version": [
-        "4.2"
+        "4.2",
+        "4.3"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
