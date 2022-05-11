@@ -557,25 +557,6 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.2/vtx/tinyhawk_s_vtx_tables.txt",
-      "hash": "1f9da07d92626a7e122342d089d415f29a7c3721e742e6ec90113fac97fabf4b",
-      "title": "Emax TinyHawk S VTX tables",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "tinyhawk",
-        "emax"
-      ],
-      "author": "Roberto Besser / MrMagoo",
-      "force_options_review": true,
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.3/filters/default_no_rpm_clean.txt",
       "hash": "a49b93320ce1ae4503a2e43061fd00b7fad70ad6d44acb4d97e040163eb72419",
       "title": "4.3 Filter settings for CLEAN build WITH NO RPM FILTERING.",
@@ -1194,6 +1175,25 @@
         "vtxtable"
       ],
       "author": "Betaflight",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/tinyhawk_s_vtx_tables.txt",
+      "hash": "1f9da07d92626a7e122342d089d415f29a7c3721e742e6ec90113fac97fabf4b",
+      "title": "Emax TinyHawk S VTX tables",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "tinyhawk",
+        "emax"
+      ],
+      "author": "Roberto Besser / MrMagoo",
+      "force_options_review": true,
       "priority": 1000000
     }
   ]
