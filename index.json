@@ -150,7 +150,7 @@
     "author": [
       "Betaflight",
       "Garban",
-      "Roberto Besser",
+      "Roberto Besser / MrMagoo",
       "sugarK"
     ],
     "keywords": [
@@ -558,8 +558,8 @@
     },
     {
       "fullPath": "presets/4.2/vtx/tinyhawk_s_vtx_tables.txt",
-      "hash": "309f4d2c969dee1a239e0011a5652591dc0ddfda945c7ae3d4d24a1dbfc10c98",
-      "title": "Emax TinyHawk S VTX table",
+      "hash": "5e9e80d164274ae440b266a09321dc45159aeb443313a16a48c6722092f12206",
+      "title": "Emax TinyHawk S VTX tables",
       "firmware_version": [
         "4.2"
       ],
@@ -570,7 +570,8 @@
         "tinyhawk",
         "emax"
       ],
-      "author": "Roberto Besser",
+      "author": "Roberto Besser / MrMagoo",
+      "force_options_review": true,
       "priority": 1000000
     },
     {
